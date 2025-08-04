@@ -1,0 +1,7 @@
+flask==2.3.3
+transformers==4.35.0
+torch>=2.6.0
+numpy>=1.24.0
+scipy>=1.11.0
+datasets>=2.14.0
+evaluate>=0.4.0 
